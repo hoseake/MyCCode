@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602727664 source:d:\codeblocks\²Ý¸å\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1616641380 source:d:\codeblocks project\²Ý¸å\main.c
+	<stdio.h>
+	<malloc.h>
+
+1635765000 source:c:\users\86177\desktop\desktopfiles\programfiles\codeblocks project\²Ý¸å\main.c
+	<stdio.h>
+	<stdlib.h>
+

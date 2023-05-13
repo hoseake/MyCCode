@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618753205 source:d:\codeblocks project\算数表达式\main.c
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+

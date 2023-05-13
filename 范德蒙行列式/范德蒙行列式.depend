@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616221219 source:d:\codeblocks project\范德蒙行列式\main.c
+	<stdio.h>
+	<stdlib.h>
+

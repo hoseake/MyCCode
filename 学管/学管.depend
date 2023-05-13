@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605365705 source:d:\codeblocks project\学管\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+
+1605365705 source:d:\users\86177\desktop\桌面文件\程序文件\codeblocks project\学管\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+

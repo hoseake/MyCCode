@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638693477 source:c:\users\86177\desktop\desktopfiles\programfiles\codeblocks project\acm\main.c
+	<stdio.h>
+	<stdlib.h>
+

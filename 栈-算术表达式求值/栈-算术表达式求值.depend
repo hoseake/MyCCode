@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618455590 source:d:\users\86177\desktop\桌面文件\程序文件\codeblocks project\栈-算术表达式求值\main.c
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+

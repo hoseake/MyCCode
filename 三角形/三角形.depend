@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1602856167 source:d:\codeblocks\三角形\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603161462 source:d:\codeblocks project\三角形\main.c
+	<stdio.h>
+	<stdlib.h>
+
